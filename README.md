@@ -1,5 +1,5 @@
 # AzuraTimeSync
-This is a JS script to allow for timesynced lyrics with Azuracast, using the Azura API and ElevateHosting API.
+This is a JS script to allow for timesynced lyrics with Azuracast, using the Azura API and a secret API.
 
 # How to use
 Firstly, import the API:
